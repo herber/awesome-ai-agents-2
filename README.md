@@ -1693,6 +1693,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/geekan/MetaGPT">github</a> | <a href="https://github.com/geekan">github profile</a></p>
 </div>
 
+### Metorial
+<div><a href="https://metorial.com"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/metorial/metorial"><img src="https://img.shields.io/github/stars/metorial/metorial?style=social" alt="GitHub stars"></a></div>
+<p>⚙️ Development Frameworks</p>
+
+<p>Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included</p>
+
+<p><a href="https://github.com/metorial/metorial">github</a> | <a href="https://metorial.com">website</a></p>
+</div>
+
 ### Miranda
 <div><a href="https://x.com/AnnieLiao_2000/status/1792175658178855112"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
